@@ -1,0 +1,37 @@
+{
+  "0": {
+    "tile_id": 0,
+    "image_path": "/tiles/grass.png",
+    "collisionSolid": false
+  },
+  "1": {
+    "tile_id": 1,
+    "image_path": "/tiles/cobble.png",
+    "collisionSolid": true
+  },
+  "2": {
+    "tile_id": 2,
+    "image_path": "/tiles/water.png",
+    "collisionSolid": true
+  },
+  "3": {
+    "tile_id": 3,
+    "image_path": "/tiles/pavement.png",
+    "collisionSolid": false
+  },
+  "4": {
+    "tile_id": 4,
+    "image_path": "/tiles/dirt.png",
+    "collisionSolid": false
+  },
+  "5": {
+    "tile_id": 5,
+    "image_path": "/tiles/tree.png",
+    "collisionSolid": true
+  },
+  "6": {
+    "tile_id": 6,
+    "image_path": "/tiles/tree.png",
+    "collisionSolid": true
+  }
+}

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<image h="16" w="48"><stack><layer composite-op="svg:src-over" name="cobble_normal" opacity="1.0" src="data/000.png" visibility="visible" x="0" y="0" /><layer composite-op="svg:src-over" name="cobble_inverted" opacity="1.0" src="data/001.png" visibility="visible" x="16" y="0" /><layer composite-op="svg:src-over" name="cobble_pers" opacity="1.0" src="data/002.png" visibility="visible" x="32" y="0" /></stack></image>
